@@ -15,3 +15,5 @@ Week 4 - Dijkstra's algorithm implementation added
 Week 5 - Dynamic Programming --> Longest Common Substring assignment implemented
 
 Week 6 - Huffman codes implementation added
+
+Week 7 - SHA 256 algo implemented
