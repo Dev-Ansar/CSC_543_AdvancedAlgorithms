@@ -16,4 +16,4 @@ Week 5 - Dynamic Programming --> Longest Common Substring assignment implemented
 
 Week 6 - Huffman codes implementation added
 
-Week 7 - SHA 256 algo implemented
+Week 7 and 8 - SHA 256 algo implemented
